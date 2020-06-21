@@ -24,9 +24,9 @@ KYEE_TEST_bin						       //存放二进制和TA文件（可直接用于测试�
 
 KTYY_TEST_src										//存放测试用例的optee源码 
 
-​			| KYEE_auth_management			//认证管理用例
+​			　　　　| KYEE_auth_management			//认证管理用例
 
-​			| KYEE_secure_storage		   	//安全存储用例
+​			　　　　　| KYEE_secure_storage		   	//安全存储用例
 
 ​			| KYEE_sm2_encrypt						//SM2加密服务用例
 
