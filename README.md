@@ -56,7 +56,7 @@ KYEE_TEST_img　　　　　　　　　　　　　　　　//存放镜像文�
 
 ```shell
 cp  KYEE_TEST_bin/binary/* /data/bin
-cp 	KYEE_TEST_bin/ta/* /data/optee_armtz
+cp　KYEE_TEST_bin/ta/* /data/optee_armtz
 ```
 
 ​	C)  加载TEE应用支持；					
